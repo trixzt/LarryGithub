@@ -5,3 +5,4 @@
 *Larry Plotter y El Malware de Fuego
 *Larry Ploteer y La Orden de Fuego
 *Larry Plotter y El Misterio del Hacker
+*Larry Plotter y Los Commits de la Muerte
